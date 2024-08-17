@@ -1,0 +1,6 @@
+Laptop,ModelA,24,2022-05-10,WiFi;Bluetooth;Webcam,true,null
+Smartphone,ModelX,12,2021-08-15,5G;NFC;Dual-SIM,true,null
+Tablet,ModelZ,18,2022-01-01,WiFi;Stylus Support,true,null
+Laptop,ModelB,36,2020-07-20,WiFi;Bluetooth,true,null
+Smartwatch,ModelS,6,2023-02-15,Heart Rate Monitor;GPS,true,null
+Mobile,X7 Max,36,2021-09-12,Large screen;Fast Charging;50MP Camera,false,null
