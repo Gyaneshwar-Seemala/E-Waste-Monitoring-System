@@ -112,11 +112,3 @@ Smartphone,Samsung Galaxy S10,24,2022-01-01,Camera;Bluetooth;WiFi,false
 Laptop,Dell Inspiron,36,2021-05-20,Touchscreen;WiFi;USB-C,false
 ```
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contribution
-
-Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss your ideas.
-
